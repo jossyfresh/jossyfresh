@@ -9,8 +9,8 @@
 <h2 align="left">Full-Stack Devloper</h2>
 
 ###
-📄 Know about my experiences [Resume](https://drive.google.com/file/d/10qoeY7TlbAChHpFP8VP6R-ol8FWbk9sN/view?usp=sharing)
-📫 How to reach me **shemelesyoseph1994@gmail.com**
+📄 Know about my experiences [Resume](https://drive.google.com/file/d/10qoeY7TlbAChHpFP8VP6R-ol8FWbk9sN/view?usp=sharing) </br>
+📫 How to reach me **shemelesyoseph1994@gmail.com** </br>
 ☎️ Call Me +251972226190
 
 ###
