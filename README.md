@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Yoseph Shemeles and i'm from Ethiopia</p>
+<p align="left">My name is Yoseph Shemeles</p>
 
 ###
 
